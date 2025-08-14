@@ -24,7 +24,8 @@ To simulate and compare the vibrational modes (eigenfrequencies) of a wine glass
 - Comparison of deformation patterns
 - Evaluation of rigid-body modes vs. true vibration modes
 
-## 👤 Author
-Riccardo Sebastiani Croce  
-*Musical Acoustics* course – Politecnico di Milano
+## 👤 Authors
+- Riccardo Sebastiani Croce  
+- Andrea De Fabritiis  
+(*as part of the Musical Acoustics course at Politecnico di Milano*)
 
